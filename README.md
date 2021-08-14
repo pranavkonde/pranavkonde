@@ -21,8 +21,8 @@
 <a href="https://github.com/pranavkonde">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=dracula&count_private=true" />
 </a>
-<a href="https://github.com/rutujak24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=onedark&langs_count=8&layout=compact" />
+<a href="https://github.com/pranavkonde">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
 </a>
 
 ### My Skill-Set
@@ -99,9 +99,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkonde&" alt="pranavkonde" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
 
 
-#### Just dive right in. My [Inbox](mailto:rutujakawade24@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
+#### Just dive right in. My [Inbox](mailto:pranavkonde2020@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
