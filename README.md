@@ -97,7 +97,9 @@
 <img src="https://img.shields.io/badge/flask%20-%23FF6F00.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 </a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkonde&" alt="pranavkonde" /></p>
 
 
 
