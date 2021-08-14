@@ -101,7 +101,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkonde&" alt="pranavkonde" /></p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
 
 
 #### Just dive right in. My [Inbox](mailto:rutujakawade24@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
