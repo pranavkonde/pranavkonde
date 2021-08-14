@@ -19,7 +19,7 @@
 ### Some Stats here :)
 
 <a href="https://github.com/pranavkonde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=dracula&count_private=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
 </a>
 <a href="https://github.com/pranavkonde">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
@@ -97,9 +97,6 @@
 <img src="https://img.shields.io/badge/flask%20-%23FF6F00.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
 
 
 #### Just dive right in. My [Inbox](mailto:pranavkonde2020@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
