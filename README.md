@@ -1,6 +1,6 @@
 <img src ="PRANAV KONDE.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkonde&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkonde" /> </p>
-<h5 align="center">🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.</h5>
+<p align="center">🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.</p>
 <h5 align="center">🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations!</h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
