@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Pradip Konde</h1>
 <h3 align="center">Hi there I am Pranav Konde, a third-year undergrad, pursuing B.E in Computer Engineering from Progressive Education Society Modern College of Engineering,Pune.</h3>
-
+<h3 align="center">🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkonde&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkonde" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavkonde" alt="pranavkonde" /></a> </p>
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranav_konde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav_konde" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranavkonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavkonde" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranav-konde-56aa141b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavkonde" height="30" width="40" /></a>
 <a href="https://fb.com/pranavkonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranavkonde" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav_konde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_konde" height="30" width="40" /></a>
 </p>
