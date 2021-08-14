@@ -1,19 +1,108 @@
-<img src ="PRANAV KONDE.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkonde&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkonde" /> </p>
-<p align="center">🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.</p>
-<h5 align="center">🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations!</h5>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pranav-konde-56aa141b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavkonde" height="30" width="40" /></a>
-<a href="https://fb.com/pranavkonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranavkonde" height="30" width="40" /></a>
-<a href="https://instagram.com/pranav_konde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_konde" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- # <div align="center">  Hi there 👋 </div>
+ ## <div align="center"> I am [Rutuja Kawade](https://rutujakawade.netlify.app/) from India :india: </div>-->
+<!--![A passionate programmer who is keen about exploring opportunities from India.](https://github.com/rutujak24/rutujak24/blob/master/header.png)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
+ <img align="center" src="pranavkonde.jpg" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
+###
+![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkonde&" alt="pranavkonde" /></p>
+   🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.
 
+   🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations! 
+
+   🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/rutujakawade/)
+  
+
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact)-->
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+
+### Some Stats here :)
+
+<a href="https://github.com/rutujak24">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=dracula&count_private=true" />
+</a>
+<a href="https://github.com/rutujak24">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=onedark&langs_count=8&layout=compact" />
+</a>
+
+### My Skill-Set
+<img width="43%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/django%20-%23D00000.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+<a href="https://github.com/rutujak24">
+<img src="https://img.shields.io/badge/flask%20-%23FF6F00.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+</a>
+
+
+
+
+
+
+#### Just dive right in. My [Inbox](mailto:rutujakawade24@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
