@@ -17,12 +17,11 @@
    🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/pranav-konde-56aa141b5/)
 
 ### Some Stats here :)
-
-<a href="https://github.com/pranavkonde">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
-</a>
 <a href="https://github.com/pranavkonde">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
+</a>
+<a href="https://github.com/pranavkonde">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
 </a>
 
 ### My Skill-Set
