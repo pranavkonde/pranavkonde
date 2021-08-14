@@ -1,3 +1,4 @@
+<img src ="PRANAV KONDE.jpg">
 <h1 align="center">Hi 👋, I'm Pranav Pradip Konde</h1>
 <h3 align="center">Hi there I am Pranav Konde, a third-year undergrad, pursuing B.E in Computer Engineering from Progressive Education Society Modern College of Engineering,Pune.</h3>
 <h3 align="center">🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.</h3>
