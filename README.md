@@ -26,6 +26,4 @@
 
 ### My Skill-Set
 
-<p>
 #### Just dive right in. My [Inbox](mailto:pranavkonde2020@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
- </p>
