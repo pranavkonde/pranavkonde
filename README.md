@@ -12,7 +12,7 @@
 
    🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Python, Java, C, C++, R, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.
 
-   🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations! 
+   🏅 Keen about exploring opportunities in the field of research and development in computer science related technologies, also open for collaborations! 
 
    🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/pranav-konde-56aa141b5/)
 
