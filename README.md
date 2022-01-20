@@ -16,13 +16,5 @@
 
    🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/pranav-konde-56aa141b5/)
 
-### Some Stats here :)
-<a href="https://github.com/pranavkonde">
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pranavkonde&show_icons=true&locale=en" alt="pranavkonde" /></p>
-</a>
-<a href="https://github.com/pranavkonde">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkonde&show_icons=true&locale=en&layout=compact" alt="pranavkonde" /></p>
-</a>
-
 
 #### Just dive right in. My [Inbox](mailto:pranavkonde2020@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
