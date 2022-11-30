@@ -10,7 +10,7 @@
 </a>
 
 
-   🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are ,web development, machine learning, data science, Python, C, C++. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.
+   🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are ,web development, machine learning, data science, Python, C, C++, Golang. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.
 
    🏅 Keen about exploring opportunities in the field of research and development in computer science related technologies, also open for collaborations! 
 
